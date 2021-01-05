@@ -1,1 +1,2 @@
 [04-Jan-2021 22:00:09 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 18
+[05-Jan-2021 22:31:40 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 55
